@@ -1,2 +1,11 @@
-# decision-microclimate-analyzer
-Analyze micro-environments that affect decision quality - https://keeprule.com
+# decision microclimate analyzer
+
+Analyze micro-environments that affect decision quality
+
+## Resources
+
+- [KeepRule](https://keeprule.com) - Decision Intelligence Platform
+- [Scenarios](https://keeprule.com/en/scenarios) | [Principles](https://keeprule.com/en/principles)
+- [Masters](https://keeprule.com/en/masters) | [Blog](https://keeprule.com/en/blog)
+
+MIT - [KeepRule](https://keeprule.com)
